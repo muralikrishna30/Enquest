@@ -1,0 +1,8 @@
+﻿S.No.,Region,Area,Well_Name,Operator,Longitude,Latitude,Longitude1,Latitude1,Spud_Date,Days,TD(m),Contractor,Rig,Elevation(m),W_Depth(m)
+1,South India,KG Basin,Annapurna 2,Cairn Energy Pvt Ltd,"82°25'33.960""E","16°14'46.080""N",82.4261,16.24613333,24-08-2021,35.44,2575,Marine Drilling,Marine 500,28.3,1144
+2,South India,KG Basin,CDW-1-A,ONGC Ltd,"80°11'31.245""E","11°15'00.843""N",80.1920125,11.25023417,23-05-1998,,2127,ONGC,Sagar Vijay,17,764
+3,South India,KG Basin,D4-A1,RIL,"80°41'54.000""E","15°11'56.000""N",80.69833333,15.19888889,03-04-2004,,4080,Transocean Sedco Forex,Discoverer 534,12,1438.6
+4,South India,KG Basin,D6-A1,RIL,"82°32'23.489""E","16°32'51.033""N",82.53985806,16.54750917,19-04-2002,43.31,2903,Transocean Sedco Forex,Discoverer 534,14,642
+5,South India,KG Basin,D6-A2,RIL,"82°31'49.480""E","16°31'23.240""N",82.53041111,16.52312222,24-01-2003,,2320,Transocean Sedco Forex,Discoverer 534,14,703
+6,South India,KG Basin,D6-B1,RIL,"82°32'36.780""E","16°30'10.483""N",82.54355,16.50291194,20-12-2002,,2340,Transocean Sedco Forex,Discoverer 534,14,843
+7,South India,KG Basin,D6-B2,RIL,"82°36'59.470""E","16°30'16.520""N",82.61651944,16.50458889,07-09-2002,,2445,Transocean Sedco Forex,Discoverer 534,14,1152
